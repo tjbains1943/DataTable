@@ -1,8 +1,8 @@
-import {combineReducers} from "redux";
-import dataTable from "./dataTable";
+import { combineReducers } from "redux";
+import dataTable from "./landingPage";
 
 const rootReducer = combineReducers({
-    dataTable,
-  });
+  dataTable,
+});
 
-  export default rootReducer;
+export default rootReducer;

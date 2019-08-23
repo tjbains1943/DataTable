@@ -6,13 +6,16 @@ const theme = createMuiTheme({
       main: "#ADD8E6",
     },
     secondary: {
-      main: "#ADD8E6",
+      main: "#0000FF",
     },
     error: {
       main: "#B20000",
     },
     background: {
       default: "#fffeea",
+    },
+    textSecondary: {
+      main: "#0000FF",
     },
   },
 });
